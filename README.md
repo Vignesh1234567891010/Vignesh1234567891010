@@ -26,7 +26,7 @@ I have built many industry grade projects from scratch and am armed with many te
 
       Overview
 
-          This project aims to obtain basic skills in Java by building a subset of features seen in calculators.
+      This project aims to obtain basic skills in Java by building a subset of features seen in calculators.
 
    During the course of this Micro-Experience, the developer:
 
